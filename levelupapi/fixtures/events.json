@@ -1,0 +1,24 @@
+[
+  {
+      "model": "levelupapi.event",
+      "pk": 1,
+      "fields": {
+          "game": 1,
+          "description": "We'll be playing 10 rounds of Dead By Daylight. Whoever escapes/survives the highest number of times will be crowned the winner. If the killer kills every survivor in more than 5 rounds, then the killer will be crowned the winner.",
+          "date": "2024-01-01",
+          "time": "8:00",
+          "organizer": 1
+      }
+  },
+  {
+      "model": "levelupapi.event",
+      "pk": 2,
+      "fields": {
+          "game": 3,
+          "description": "My goal is to playthrough and have everyone survive the night.",
+          "date": "2024-01-10",
+          "time": "10:00",
+          "organizer": 1
+    }
+  }
+]
